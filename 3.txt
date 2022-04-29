@@ -1,4 +1,0 @@
-
-3rd file 
-
- conflict in file 3 in Bug2 and master 
