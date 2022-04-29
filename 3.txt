@@ -1,1 +1,1 @@
- conflict in file 3 in Bug2 and master 
+"middle" conflict in file 3 in Bug2 and master 
