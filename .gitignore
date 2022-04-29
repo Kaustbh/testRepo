@@ -1,0 +1,5 @@
+1.txt
+*.jar
+*.war
+dir1/
+/file1.txt
